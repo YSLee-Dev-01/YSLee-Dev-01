@@ -31,7 +31,7 @@
 
 ## 🔥 Current Focus
 - SwiftUI, Flutter를 사용한 선언형 UI
-- Swift Concurrency를 사용한 비동기 처리
+- Swift Concurrency, RxSwift를 사용한 비동기 처리
 - Tuist를 사용한 프로젝트 모듈화
 - 테스트 주도 개발을 통한 코드 품질 향상
 
